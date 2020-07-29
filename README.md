@@ -3,7 +3,7 @@
 
 ### Các kỹ thuật sử dụng (Techniques used): 
 + Excel VBA
-+ Scripting.Dictionary, 
++ Scripting.Dictionary
 + SQL (ADODB)
 
 ### Các chức năng (Features):
